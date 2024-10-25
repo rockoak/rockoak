@@ -30,4 +30,5 @@
 ```
 網路連結 : [GitHub Pages](https://pages.github.com).
 引文1: [Link Text](#1.一些常見的網路詐騙手法：).
+引文1: [Link Text](#2. 多種的應用程式可以用來進行雙重要素驗證（2FA）).
 ```
