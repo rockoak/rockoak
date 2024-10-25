@@ -1,9 +1,9 @@
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
 
 <!--1.1 添加适合访问者的图像-->
 <picture>
@@ -12,7 +12,7 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 <!--1.2 响应式图像示例 -->
-<!-- 備註(不會顯示)  AC.jpg 小河馬 82.png 小蜜蜂 BB.jpg 小螞蟻 -->
+<!-- 備註  AC.jpg 小河馬 82.png 小蜜蜂 BB.jpg 小螞蟻 -->
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/rockoak/rockoak/blob/main/images/%E5%B0%8F%E6%B2%B3%E9%A6%AC.jpg">
