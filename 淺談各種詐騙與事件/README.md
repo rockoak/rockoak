@@ -8,7 +8,7 @@
   
 ##  2. 多種的應用程式可以用來進行雙重要素驗證（2FA）
 以下是一些常見且受歡迎的選擇：
-`1.	Google Authenticator：這是最常用的2FA應用程式之一，簡單易用，適用於多個平台1。`
+1.	Google Authenticator：這是最常用的2FA應用程式之一，簡單易用，適用於多個平台1。
 2.	Microsoft Authenticator：特別適合使用Microsoft服務的用戶，提供額外的功能如密碼管理2。
 3.	Authy：支持多設備同步和備份功能，非常適合需要在多個設備上使用2FA的用戶1。
 4.	Duo Mobile：由Cisco開發，界面友好，支持多種備份選項1。企業用的比較多
