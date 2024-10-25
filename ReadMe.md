@@ -25,7 +25,7 @@
 Hi, I'm rockoak. You might recognize me as GitHub's mascot.
 | 入學階段|讀過的學校|
 |-----:|---------------|
-|     1|靜修國小             |
+|     1|靜修國小|
 |     2|               |
 |     3|               |
 
