@@ -23,9 +23,9 @@
 <!-- 1.3 添加表 -->
 ## About me
 Hi, I'm rockoak. You might recognize me as GitHub's mascot.
-| Rank | THING-TO-RANK |
+| 入學階段|讀過的學校|
 |-----:|---------------|
-|     1|               |
+|     1|靜修國小             |
 |     2|               |
 |     3|               |
 
