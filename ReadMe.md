@@ -22,8 +22,7 @@
 
 <!-- 1.3 添加表 -->
 ## About me
-
-Hi, I'm Mona. You might recognize me as GitHub's mascot.
+Hi, I'm rockoak. You might recognize me as GitHub's mascot.
 <!--  -->
 
 <!--  -->
