@@ -5,12 +5,13 @@
 <!-- -->
 <!-- -->
 
-<!--添加适合访问者的图像-->
+<!--1.1 添加适合访问者的图像-->
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
+<!--1.2 响应式图像示例 -->
 <!-- 備註(不會顯示)  AC.jpg 小河馬 82.png 小蜜蜂 BB.jpg 小螞蟻 -->
 
 <picture>
