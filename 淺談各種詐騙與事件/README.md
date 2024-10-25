@@ -32,4 +32,4 @@
 引文1: [Link Text](#1.一些常見的網路詐騙手法：).
 引文1: [Link Text](#2. 多種的應用程式可以用來進行雙重要素驗證（2FA）).
 ```
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/rockoak/rockoak/blob/main/images/%E5%B0%8F%E8%9E%9E%E8%9F%BB.jpg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/rockoak/rockoak/blob/main/images/%E5%B0%8F%E8%9C%9C%E8%9C%82.png)
