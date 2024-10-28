@@ -31,13 +31,13 @@ Hi, I'm rockoak. You might recognize me as GitHub's mascot.
 
 |     5|               |
 fsfsfsfs
-<!--  -->
+
+
+
 
 <!--  -->
 
-<!--  -->
 
-<!--  -->
 
 ## About me
 New Year !!
@@ -74,11 +74,16 @@ New Year !!
 — Rockoak the 2024/10/28
 </details>
 
+     <!-- 添加注释 -->
+    将 COMMENT 替换为“待办事项”项目，提醒自己稍后执行某些操作（例如，向表中添加更多项）。
+
+<!-- 关于在 GitHub 上编写和设置格式 -->
+
+     <!--  在编辑器中启用定宽字体 -->
+在 GitHub 的每个注释字段中启用定宽字体。 定宽（也称固定宽度）字体中的每个字符占据相同的水平空间。 这可以更容易地编辑高级 Markdown 结构，例如表和代码片段。
 
 
-
-
-
+(https://github.com/user-attachments/assets/98b2000a-3101-46c2-b49e-00c92d0fcebc)
 
 
 
