@@ -1,4 +1,4 @@
-| First Header  | Second Header |
+| 11  | 22 |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
