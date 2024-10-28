@@ -1,17 +1,4 @@
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
 
-> [!TIP]
-> Useful information that users should know, even when skimming content.
-
-> [!IMPORTANT]
-> Useful information that users should know, even when skimming content.
-
-> [!WARNING]
-> Useful information that users should know, even when skimming content.
-
-> [!CAUTION]
-> Useful information that users should know, even when skimming content.
 
 
 
@@ -187,7 +174,20 @@ A footnote can also have multiple lines[^2].
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
+> [!TIP]
+> Useful information that users should know, even when skimming content.
+
+> [!IMPORTANT]
+> Useful information that users should know, even when skimming content.
+
+> [!WARNING]
+> Useful information that users should know, even when skimming content.
+
+> [!CAUTION]
+> Useful information that users should know, even when skimming content.
 
 
 
