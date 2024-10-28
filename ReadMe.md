@@ -149,7 +149,7 @@ C
 3. Thomas Jefferson
 
      <!-- 任务列表  -->
-- [x] #739
+- [x] \f #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
