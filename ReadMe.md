@@ -43,7 +43,7 @@ fsfsfsfs
 New Year !!
 <!--  -->
 <!--  -->
-<!--  -->
+<!-- 折叠部分的示例 -->
 
      <!-- 创建折叠部分 -->
 <details open>
@@ -56,3 +56,18 @@ New Year !!
    
 4. Go Go!!!
 </details>
+
+     <!-- 折叠部分的示例 -->
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
+
+</details>
+
+
+
