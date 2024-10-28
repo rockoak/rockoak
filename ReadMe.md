@@ -67,9 +67,10 @@ New Year !!
 |     2| Python    |
 |     3| SQL       |
 ---
+> If we pull together and commit ourselves, then we can push through anything.
+— Rockoak the 2024/10/28
 </details>
 
-      <!-- 添加引文 -->
 
 
 
