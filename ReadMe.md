@@ -214,6 +214,11 @@ A footnote can also have multiple lines[^2].
 
             <!-- 使用高級格式 -->
             <!-- 使用表格组织信息 -->
+            <!-- 创建表 -->
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 
