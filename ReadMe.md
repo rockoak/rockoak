@@ -156,9 +156,9 @@ C
      <!-- 使用表情符号 在任何地方輸入 :[] 即會出現 各種圖案供你選擇, []裏頭可輸入 0-9,a-z 模糊查詢[一個位元] -->
      <!-- 段落 -->   <!-- 通过在文本行之间留一个空白行，可创建新段落。 --> 
      <!-- 脚注 -->   <!-- 通过在文本行之间留一个空白行，可创建新段落。 --> 
-Here is a simple footnote[^1].
+Here is a simple footnote[^1]
 
-A footnote can also have multiple lines[^2].
+A footnote can also have multiple lines[^2]
 
 [^1]: My reference.
 [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
