@@ -1,4 +1,18 @@
+      <!-- 警报  沒有問題-->
+> [!NOTE]    <!-- NOTE 藍色 -->
+> Useful information that users should know, even when skimming content.
 
+> [!TIP]     <!-- TIP 綠色 -->
+> Useful information that users should know, even when skimming content.
+
+> [!IMPORTANT]      <!-- IMPORTANT 紫色 -->
+> Useful information that users should know, even when skimming content.
+
+> [!WARNING]    <!-- WARNING 棕色 -->
+> Useful information that users should know, even when skimming content.
+
+> [!CAUTION]    <!-- CAUTION 紅色 -->
+> Useful information that users should know, even when skimming content.
 
 
 
@@ -171,22 +185,19 @@ A footnote can also have multiple lines[^2].
   This is a second line.
 
       <!-- 警报  沒有問題-->
-> [!NOTE]
+> [!NOTE]    <!-- NOTE 藍色 -->
 > Useful information that users should know, even when skimming content.
 
-> [!NOTE]
+> [!TIP]     <!-- TIP 綠色 -->
 > Useful information that users should know, even when skimming content.
 
-> [!TIP]
+> [!IMPORTANT]      <!-- IMPORTANT 紫色 -->
 > Useful information that users should know, even when skimming content.
 
-> [!IMPORTANT]
+> [!WARNING]    <!-- WARNING 棕色 -->
 > Useful information that users should know, even when skimming content.
 
-> [!WARNING]
-> Useful information that users should know, even when skimming content.
-
-> [!CAUTION]
+> [!CAUTION]    <!-- CAUTION 紅色 -->
 > Useful information that users should know, even when skimming content.
 
 
