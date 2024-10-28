@@ -4,7 +4,7 @@
 > [!TIP]
 > Useful information that users should know, even when skimming content.
 
-> [!IMPORANT]
+> [!IMPORTANT]
 > Useful information that users should know, even when skimming content.
 
 > [!WARNING]
